@@ -1,0 +1,11 @@
+#install the requires libraries
+#pip install -q -r ./requirements.txt
+
+openai
+langchain
+langchain-openai
+langchain-core
+
+streamlit
+tiktoken
+python-dotenv
